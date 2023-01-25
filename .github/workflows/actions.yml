@@ -6,7 +6,7 @@ branding:
 
   icon: 'cloud'
 
-  color: 'orange'
+  color: 'blue'
 
 inputs:
 
@@ -120,7 +120,7 @@ outputs:
 
 runs:
 
-  using: 'node12'
+  using: 'node19'
 
   main: 'dist/index.js'
 
